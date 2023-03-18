@@ -2,7 +2,7 @@
 [
     {"tag": "greeting",
      "patterns": ["Hi", "Hey", "Is anyone there?", "Hello", "Hay","Hiya"],
-     "responses": ["Hello", "Hi", "Hi there","Hello, Welcome to the Innovation Center"]
+     "responses": ["Hello, Welcome to the Innovation Center"]
     },
     {"tag": "goodbye",
      "patterns": ["Bye", "See you later", "Goodbye"],

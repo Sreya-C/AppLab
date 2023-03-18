@@ -14,11 +14,11 @@
     },
     {"tag": "about",
      "patterns": ["Who are you?", "What are you?", "Who you are?" ],
-     "responses": ["I.m Tobic, your bot assistant", "I'm Tobic, an Artificial Intelligent bot"]
+     "responses": ["I am ICBOT, your bot assistant", "I'm ICBOT, an Artificial Intelligent bot"]
     },
     {"tag": "name",
     "patterns": ["what is your name", "what should I call you", "whats your name?"],
-    "responses": ["I am Tobic"]
+    "responses": ["I am ICBOT"]
     },
     {"tag": "help",
     "patterns": ["Could you help me?", "give me a hand please", "Can you help?", "What can you do for me?", "I need a support", "I need a help", "support me please"],
@@ -46,7 +46,7 @@
     },
     {"tag":"random",
     "patterns": ["asdf","qwerty","sdfkwdlcm"], 
-    "responses": ["You might like this: EXPLORE MENU"]
+    "responses": ["You might like this: EXPLORE"]
     },
     {"tag":"connect",
     "patterns": ["Connect with people","Connect","Opportunities","Opportunity Requirement","Freelance","Open connect","connect"], 

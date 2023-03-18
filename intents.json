@@ -34,23 +34,23 @@
     },
     {"tag":"startup",
     "patterns": ["Startups","Startup","Information about startups","Information about start-ups","Can I have some information about startups","What all startups are there?"], 
-    "responses": ["https://www.startupindia.gov.in/"]
+    "responses": ["-EXPLORE-"]
     },
     {"tag":"startups",
     "patterns": ["Information about startups","Information about start-ups","Can I have some information about startups","What all startups are there?"], 
-    "responses": ["https://www.startupindia.gov.in/"]
+    "responses": ["-EXPLORE-"]
     },
     {"tag":"explore",
     "patterns": ["Explore page","Explore more","Open Explore","Explore"], 
-    "responses": ["https://www.startupindia.gov.in/"]
+    "responses": ["-EXPLORE-"]
     },
     {"tag":"random",
     "patterns": ["asdf","qwerty","sdfkwdlcm"], 
-    "responses": ["You might like thsi: https://www.startupindia.gov.in/"]
+    "responses": ["You might like this: EXPLORE MENU"]
     },
     {"tag":"connect",
     "patterns": ["Connect with people","Connect","Opportunities","Opportunity Requirement","Freelance","Open connect","connect"], 
-    "responses": ["//en.wikipedia.org/wiki/Connect_(2022_film)"]
+    "responses": ["-CONNECT-"]
     },
     {"tag": "noanswer",
     "patterns": [],
